@@ -1,0 +1,42 @@
+body{
+
+    background-image: url(foto.jpg);
+display: block;
+margin: 0;
+padding: 70px 0;
+font-size: larger;
+background-size:cover;
+font-family: "Assistant", sans-serif;
+
+color:rgb(255, 255, 255);
+    font-family: "Assistant", sans-serif;
+} 
+
+
+
+
+
+
+button{
+        margin: 90px;
+        height: 90px;
+        width: 130px;
+        align-items: center;
+        text-align: center;border-radius: 10px;
+        font-size: large;
+        border-color: rgb(0, 44, 139);
+        border-width: 5px;
+}
+h1{
+font-size: xx-large;
+text-align: center;
+
+}
+div{
+    text-align: center;
+}
+li{
+    color:rgb(255, 255, 255);
+    font-family: "Assistant", sans-serif;
+} 
+
